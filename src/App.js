@@ -2,7 +2,7 @@
 import "./App.css";
 
 function App() {
-  return <div className="w-80 h-44">Here is my extension</div>;
+  return <div className="w-80 h-44">App</div>;
 }
 
 export default App;
