@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Web Comments",
+  "name": "Chrome Extension Boilerplate",
   "version": "0.1.0",
-  "description": "An extension to leave comments on any page on the web.",
+  "description": "A boilerplate chrome extension to work with react, tailwind and hot reload.",
   "action": {
     "default_icon": "logo192.png",
     "default_popup": "popup.html"
